@@ -28,20 +28,9 @@ The file can be downloaded by clicking on the respective buttons given below the
 
 ![Screenshot (573)](https://user-images.githubusercontent.com/63349641/149621612-5958fe52-443a-411e-ae57-e8d0e85a3426.png)
 
-## Features
-
-- Available in dark mode
-- Responsive
-- Download file in png or pdf
-- Upload in any of the 3 formats (docx, txt, pdf)
-
- ### Dark mode
 
 ![Full page ss](https://user-images.githubusercontent.com/63349641/149622095-4b42c03a-511d-4de1-8838-ca5479bb5393.png)
 
-### Responsive
-
-<img src="https://user-images.githubusercontent.com/63349641/149622618-d56eb69f-58d3-4636-859e-a00ac4032dba.png" width="380">
 
 ## Working and technologies used
 - Flask
